@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="QuestDex logo" width="220"/>
+<img src="Assets/logo.png" alt="QuestDex logo" width="220"/>
 
 # QuestDex
 
@@ -23,7 +23,7 @@ A goal-tracking companion game where your real-life consistency raises, feeds, a
 Works directly in the browser on desktop and mobile — portrait and landscape both supported, no download required.
 
 <div align="center">
-<img src="assets/qr-code.png" alt="Scan to play QuestDex" width="180"/>
+<img src="Assets/qr-code.png" alt="Scan to play QuestDex" width="180"/>
 
 <sub>Scan to open the live demo on your phone</sub>
 </div>
@@ -80,7 +80,7 @@ Project source and editable Unity files live in `Quest Dex Project Files/`. A se
 
 - **Unity** (C#) — core engine, gameplay logic, UI
 - **TextMeshPro** — all in-game text rendering
-- **JSON-based save system** — persistent goals, economy, inventory, XP, and evolution state
+- **PlayerPref-based save system** — persistent goals, economy, inventory, XP, and evolution state
 - **Custom particle & audio systems** — coin bursts, feed hearts, evolution sparkle, centralized `AudioSource` management
 - **Async scene loading** — no freeze on transitions
 - **WebGL / Windows / Android** — shared codebase, exported across all three
@@ -112,7 +112,7 @@ Project source and editable Unity files live in `Quest Dex Project Files/`. A se
 
 ## Team / Submission Info
 
-Built solo in Unity for [Hackathon Name] 2026.
+Built As a Solo Project in Unity 6.5 for Hackathoninit() -- VIT AP 2026.
 
 <div align="center">
 
