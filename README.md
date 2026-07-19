@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/logo.png" alt="QuestDex logo" width="220"/>
+<img src="Assets/Logo.png.png" alt="QuestDex logo" width="220"/>
 
 # QuestDex
 
@@ -23,7 +23,7 @@ A goal-tracking companion game where your real-life consistency raises, feeds, a
 Works directly in the browser on desktop and mobile — portrait and landscape both supported, no download required.
 
 <div align="center">
-<img src="Assets/qr-code.png" alt="Scan to play QuestDex" width="180"/>
+<img src="Assets/QR CODE.png" alt="Scan to play QuestDex" width="180"/>
 
 <sub>Scan to open the live demo on your phone</sub>
 </div>
