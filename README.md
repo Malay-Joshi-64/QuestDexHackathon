@@ -8,10 +8,6 @@
 
 A goal-tracking companion game where your real-life consistency raises, feeds, and evolves a creature you choose.
 
-[![Play on Web](https://img.shields.io/badge/Play-WebGL%20Demo-e8372a?style=for-the-badge)](https://questdexf.vercel.app/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20WebGL-2e6fba?style=for-the-badge)]()
-[![Engine](https://img.shields.io/badge/Engine-Unity-f4c542?style=for-the-badge)]()
-
 </div>
 
 ---
